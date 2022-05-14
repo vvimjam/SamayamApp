@@ -2,6 +2,9 @@
    Samayam
 </h1>
 
+## Vision
+<p>Samayam aims to provide a simple & privacy focused solution to track your events. Samayam was built using core web technologies to ensure maximum compatibility across all major browsers.</p>
+
 <p align="center">
   <img src="https://github.com/vvimjam/SamayamApp/blob/main/.github/ReadMe_Banner.png?raw=true" alt="banner_about" width="800"/>
 </p>
@@ -21,6 +24,7 @@
 - Complete data freedom with ability to Import / Export data
 - Responsive across different device screens.
 - Compatible with major browsers (Firefox, Chrome, Safari)
+- Supports safari colored tabs
 
 ## URL
  - [Samayam@Vercel](https://samayam.vercel.app)
@@ -35,3 +39,11 @@
     <li>uuid</li>
     <li>svgrepo</li>
 </ul>
+
+## Changelog
+Please refer to [CHANGELOG.md](https://github.com/vvimjam/SamayamApp/main/CHANGELOG.md) for list of changes in each releases.
+
+## Future milestones
+- [-] Privacy focused / Anonymized crash analytics
+- [-] PWA
+
