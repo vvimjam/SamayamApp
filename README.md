@@ -41,7 +41,7 @@
 </ul>
 
 ## Changelog
-Please refer to [CHANGELOG.md](https://github.com/vvimjam/SamayamApp/main/CHANGELOG.md) for list of changes in each releases.
+Please refer to [CHANGELOG.md](https://github.com/vvimjam/SamayamApp/blob/main/CHANGELOG.md) for list of changes in each releases.
 
 ## Future milestones
 - [-] Privacy focused / Anonymized crash analytics
