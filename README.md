@@ -47,3 +47,6 @@ Please refer to [CHANGELOG.md](https://github.com/vvimjam/SamayamApp/blob/main/C
 - [-] Privacy focused / Anonymized crash analytics
 - [-] PWA
 
+## Issues
+<p> Noticed an issue ? Please log an issue in the issue tracker with the details.</p>
+
